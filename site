@@ -1,4 +1,4 @@
-bicletaria 244
+text-align:center
 ola seja bem vindo a nossa bicicletaria 244;
 aqui vendemos bicicletas,comcertamos vemdemos pesas usadas e tambem lavamos bicicletas e motos;
 voce nao tem dinheiro nao tem problema aqui a gente aceita pesas de outras bicicletas usadas trocamos por bateria de carros e tambem celulares;
@@ -13,3 +13,18 @@ tipos de materiais que agente vende em nossa bicicletaria
 2garupera com rabeta e sem rabeta 
 3quadro de vicks,barra forte,quadro para montadinha e quadro para bikes gills;
 tudo no preço 
+<!DOCTYPE html>
+<html lang="pt-br">
+    <meta charset="UTF-8">
+    <title>bicicletaria Alura</title>
+
+    <h1>Sobre a bicicletaria  Alura</h1>
+
+    <p>Localizada na rua gertudes do amaral lorenço <strong>bicicletaria Alura</strong> traz para a bicicletaria o que há de melhor para a sua montadinha. 
+     já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+    <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+     
+    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+</html>
