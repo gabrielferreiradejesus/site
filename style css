@@ -19,3 +19,30 @@ body {
   }
    p { 
       text-align:center
+}
+
+#missao {
+font-size:20px
+}
+
+em strong{
+color:#FF0000;
+}
+
+.itens {
+font-style:italic
+}
+
+.beneficios {
+background: #FFFFFF;
+padding:20px;
+}
+
+ul {
+disply:inline-block;
+vertical-aling:top;
+width:20%;
+margin-right:15%;
+.magembeneficios{
+width:50%;
+}
